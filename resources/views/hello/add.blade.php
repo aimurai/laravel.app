@@ -20,7 +20,7 @@
            </td></tr>
 		<tr><th>memo: </th><td><input type="text" name="memo"> 
            </td></tr>
-		<tr><th></th><td><input type="submit" value="登録">　　　　　<a href="http://localhost:8000/hello/">一覧</a>
+		<tr><th></th><td><input type="submit" value="登録">           <a href="http://localhost:8000/hello/">一覧</a>
            </td></tr>
 	</form>
    </table>
